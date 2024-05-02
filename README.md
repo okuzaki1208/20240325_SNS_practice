@@ -8,3 +8,7 @@ HTML,CSS,PHP,JavaScript,Mysqlを使用して制作しました。
 giphy.comのAPIを拝借し、ソースに記述したワードを元にトレンド画像を表示するようにしています。
   
 レビューの際はphpdb.sqlをローカルサーバーにインポートして下さい。
+--以下デフォルトの設定--
+host:localhost  
+user:root  
+password:(空欄)
